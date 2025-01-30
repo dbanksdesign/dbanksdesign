@@ -1,22 +1,21 @@
-### Danny Banks
+## Danny Banks
 
-_Principal Design Technologist_
+Hello there! I am Principal Design Technologist currently working at AWS on AWS Amplify. Before that I worked on the mobile app for 3rd party sellers on Amazon for 7 years. We built a pretty cool server-rendered-native-UI framework with it. I love working at the intersection of design and technology, hence being a design technologist. I love working on design systems and design tokens. I even built a pretty popular design token framework called Style Dictionary. Throughout my work I'm realizing that, **developer experience unlocks user experiences.**
 
-
+I currently live in San Jose, CA with my partner, 2 kids, and 2 cats. 
 
 ```
 npx dbankdesign
 ```
 
 
-
-### Currently working on
+### 👨‍💻 Currently working on
 
 [![AWS Amplify UI](https://svg.bookmark.style/api?url=https://ui.docs.amplify.aws&mode=light&style=horizontal)](https://ui.docs.amplify.aws)
 [![AWS Amplify](https://svg.bookmark.style/api?url=https://docs.amplify.aws&mode=light&style=horizontal)](https://docs.amplify.aws)
 [![Style Dictionary](https://svg.bookmark.style/api?url=https://styledictionary.com&mode=light&style=horizontal)](https://styledictionary.com)
 
-### Things I code with
+### 💻 Things I code with
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -40,5 +39,8 @@ npx dbankdesign
 ![Android](https://img.shields.io/badge/-Android-34A853?style=flat-square&logo=android&logoColor=white)
 ![Swift](https://img.shields.io/badge/-iOS-F05138?style=flat-square&logo=swift&logoColor=white)
 
+### 📊 Stats
 
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=dbanksdesign" />
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dbanksdesign&theme=radical&show=prs_merged)
+
+![Github languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=dbanksdesign&layout=donut&theme=radical)
